@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies Year="1980">
+	<Genre>Action</Genre>
+	<Actor>Mark Hamill</Actor>
+	<Date>May 17, 1980</Date>
+	<Actor>Harrison Ford</Actor>
+	<Actor>Carrie Fisher</Actor>
+	Star Wars - Episode 5
+</Movies>
+<Node Name="Malicious">SomeValue;nlWhiteSpace ;opBracketNewNode;clBracketMaliciousContent;opBracket;bkSlashNewNode;clBracket</Node>
